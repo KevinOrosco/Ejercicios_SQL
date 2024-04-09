@@ -1,2 +1,2 @@
-# Ejercicios_SQL
-Repocitorio con repuestas a los ejercicios del SQL
+# Base de datos
+Repocitorio Destinado a la materia "Base de datos"
