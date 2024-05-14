@@ -1,0 +1,1 @@
+SELECT MIN(age) as edad_Minima, MAX(age) as edad_Maxima, AVG(age) as edad_Promedio FROM drivers_license WHERE gender = "female"
